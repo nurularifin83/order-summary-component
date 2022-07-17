@@ -18,8 +18,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -41,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-bootstrap-framework-ekFl3lcAF_)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/ProductCard-frontendmentor/)
 
 ## My process
@@ -68,3 +66,5 @@ To be honest when i built this challenge i have understand about CSS, Bootstrap 
 - Website - [Nurul Arifin](https://github.com/nurularifin83)
 - Frontend Mentor - [@nurularifin83](https://www.frontendmentor.io/profile/nurularifin83)
 - Twitter - [@nurularifin803](https://twitter.com/nurularifin803)
+
+
