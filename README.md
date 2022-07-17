@@ -2,7 +2,7 @@
 
 ![Design preview for the Order summary card coding challenge](https://raw.githubusercontent.com/nurularifin83/order-summary-component/main/SS%20Result.png)
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-bootstrap-iwFoNFB6Nz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-bootstrap-iwFoNFB6Nz)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/order-summary-component/)
 
 ## My process
