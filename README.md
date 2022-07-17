@@ -27,20 +27,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
-
-@Desktop View
-
-![Destok Image](https://raw.githubusercontent.com/nurularifin83/ProductCard-frontendmentor/main/desktop.png?raw=true "Desktop Image")
-
-@Mobile View
-
-![Mobile Image](https://raw.githubusercontent.com/nurularifin83/ProductCard-frontendmentor/main/Mobile.png?raw=true "Mobile Image")
-
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-bootstrap-framework-ekFl3lcAF_)
-- Live Site URL: [Live site URL here](https://nurularifin83.github.io/ProductCard-frontendmentor/)
+- Solution URL: [Solution URL here]()
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/order-summary-component/)
 
 ## My process
 
@@ -52,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-To be honest when i built this challenge i have understand about CSS, Bootstrap Framework, and HTML Structur. With make this theme help me a lot to remember what i have learn.
+I learn about bootstraps's class like d-flex, btn, row, card car-body, row, col and other many thinks.
 
 ### Useful resources
 
@@ -66,5 +56,3 @@ To be honest when i built this challenge i have understand about CSS, Bootstrap 
 - Website - [Nurul Arifin](https://github.com/nurularifin83)
 - Frontend Mentor - [@nurularifin83](https://www.frontendmentor.io/profile/nurularifin83)
 - Twitter - [@nurularifin803](https://twitter.com/nurularifin803)
-
-
